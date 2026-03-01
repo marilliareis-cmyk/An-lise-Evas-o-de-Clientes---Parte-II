@@ -1,2 +1,2 @@
 # An-lise-Evas-o-de-Clientes---Parte-II
-Atividade de Conclusão da Especialização em Data Science
+Análise das principais variáveis que impactam na evasão de clientes e indicação de estratégia de melhoria dos fatores críticos.
